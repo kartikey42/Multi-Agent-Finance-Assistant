@@ -1,0 +1,16 @@
+openai
+faiss-cpu
+yfinance
+beautifulsoup4
+requests
+sentence-transformers
+langchain
+crewai
+python-dotenv
+fastapi
+uvicorn
+streamlit
+pyttsx3
+torch
+torchaudio
+whisper
